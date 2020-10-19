@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T03:28:52.332Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="pFzoD-MViUqzQ2PT80xu" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T03:49:15.217Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="nxMIHsWYX_r5J7pISfCc" version="13.8.0" type="github">
   <diagram id="wGqBhuBeR9B531tw5AZY" name="Page-1">
-    <mxGraphModel dx="1748" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1748" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,10 +23,10 @@
           <mxGeometry x="-520" y="82.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BpO22EwetymlpUDAqeDn-36" value="上一页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="381" y="375" width="75" height="30" as="geometry" />
+          <mxGeometry x="460" y="370" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BpO22EwetymlpUDAqeDn-37" value="下一页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="471" y="375" width="75" height="30" as="geometry" />
+          <mxGeometry x="551" y="370" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BpO22EwetymlpUDAqeDn-34" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;background-color: #a7c942 ; color: #ffffff ; border: 1px solid #98bf21&quot;&gt;&lt;th align=&quot;left&quot;&gt;创建时间&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;备注&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;&amp;nbsp;已启用&lt;/th&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;2020.10.25&lt;/td&gt;&lt;td&gt;360P配置的参数&lt;/td&gt;&lt;td&gt;是&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color: #eaf2d3 ; border: 1px solid #98bf21&quot;&gt;&lt;td&gt;2020.10.28&lt;/td&gt;&lt;td&gt;校验1小时测试配置&lt;/td&gt;&lt;td&gt;否&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;2020.11.1&lt;/td&gt;&lt;td&gt;24小时性能测试配置&lt;/td&gt;&lt;td&gt;否&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color: #eaf2d3 ; border: 1px solid #98bf21&quot;&gt;&lt;td&gt;2020.12.3&lt;/td&gt;&lt;td&gt;Value 11&lt;/td&gt;&lt;td&gt;否&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="201" y="135" width="255" height="160" as="geometry" />
@@ -94,7 +94,7 @@
             <mxPoint x="560" y="82.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpO22EwetymlpUDAqeDn-74" value="详细配置说明&lt;br&gt;鼠标滑动到《展示》上，展示Json配置的详细信息，鼠标移开，关闭详细信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BpO22EwetymlpUDAqeDn-74" value="详细配置说明&lt;br&gt;1、鼠标滑动到《展示》上，展示Json配置的详细信息&lt;br&gt;2、鼠标移开，关闭详细信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="60" width="120" height="10" as="geometry" />
         </mxCell>
         <mxCell id="BpO22EwetymlpUDAqeDn-75" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
@@ -106,8 +106,17 @@
         <mxCell id="BpO22EwetymlpUDAqeDn-76" value="修改按钮：点击后，进入配置页" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="175" width="120" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="BpO22EwetymlpUDAqeDn-78" value="1、开启按钮：选中配置&lt;br&gt;2、关闭按钮：关闭配置&lt;br&gt;3、所有选项为互斥项，只能有一个配置为开启状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BpO22EwetymlpUDAqeDn-78" value="1、开启按钮：选中配置&lt;br&gt;2、关闭按钮：关闭配置&lt;br&gt;3、所有配置信息为互斥项，只能有一个配置项为开启状态，比如有4条配置，只能启用一条配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="253.75" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="BpO22EwetymlpUDAqeDn-79" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="385" as="sourcePoint" />
+            <mxPoint x="690" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BpO22EwetymlpUDAqeDn-80" value="分页使用，同类组件即可" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="377.5" width="120" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
