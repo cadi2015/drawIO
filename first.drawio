@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T09:06:47.002Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="py_Ov02A-gXenJKrWaK_" version="13.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-27T09:08:37.264Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="2gXSPIydzBNUDW-j148y" version="13.8.3" type="github">
   <diagram id="W0PIrgdUMLI96M_QNtbx" name="Page-1">
     <mxGraphModel dx="4484" dy="1694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -307,8 +307,8 @@
         <mxCell id="bGqVBYWvXgwGC4I8pHL_-35" value="Web前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-840" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bGqVBYWvXgwGC4I8pHL_-36" value="&lt;font style=&quot;font-size: 24px&quot;&gt;自动化应用、自动化报告、工作过程1.0持续更新&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1090" y="-220" width="550" height="30" as="geometry" />
+        <mxCell id="bGqVBYWvXgwGC4I8pHL_-36" value="&lt;font style=&quot;font-size: 24px&quot;&gt;自动化应用、自动化报告、工作过程1.0（不含Jenkins）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1150" y="-230" width="660" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bGqVBYWvXgwGC4I8pHL_-37" value="中心服务DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-1500" y="10" width="120" height="160" as="geometry" />
