@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T09:02:36.893Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="muIUgIM9Xy7s5SVTy1kr" version="13.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-27T09:06:47.002Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="py_Ov02A-gXenJKrWaK_" version="13.8.3" type="github">
   <diagram id="W0PIrgdUMLI96M_QNtbx" name="Page-1">
     <mxGraphModel dx="4484" dy="1694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -140,9 +140,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bGqVBYWvXgwGC4I8pHL_-11" value="组装流数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bGqVBYWvXgwGC4I8pHL_-10">
+        <mxCell id="bGqVBYWvXgwGC4I8pHL_-11" value="返回流记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bGqVBYWvXgwGC4I8pHL_-10">
           <mxGeometry x="0.0207" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-53" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bGqVBYWvXgwGC4I8pHL_-12" value="我的后端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -246,6 +246,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="bGqVBYWvXgwGC4I8pHL_-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bGqVBYWvXgwGC4I8pHL_-31" target="bGqVBYWvXgwGC4I8pHL_-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bGqVBYWvXgwGC4I8pHL_-138" value="翻译指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bGqVBYWvXgwGC4I8pHL_-136">
+          <mxGeometry x="-0.0847" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bGqVBYWvXgwGC4I8pHL_-31" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" vertex="1" parent="1">
           <mxGeometry x="-1097.5" y="365" width="35" height="70" as="geometry" />
         </mxCell>
@@ -253,7 +261,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1240" y="-10" />
-              <mxPoint x="-1240" y="20" />
+              <mxPoint x="-1240" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -303,7 +311,7 @@
           <mxGeometry x="-1090" y="-220" width="550" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bGqVBYWvXgwGC4I8pHL_-37" value="中心服务DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-1500" y="-70" width="120" height="160" as="geometry" />
+          <mxGeometry x="-1500" y="10" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="bGqVBYWvXgwGC4I8pHL_-49" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bGqVBYWvXgwGC4I8pHL_-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -577,6 +585,22 @@
         </mxCell>
         <mxCell id="bGqVBYWvXgwGC4I8pHL_-134" value="自动化报告" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="-460" y="510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bGqVBYWvXgwGC4I8pHL_-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGqVBYWvXgwGC4I8pHL_-135">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1081" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1081" y="495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bGqVBYWvXgwGC4I8pHL_-139" value="指令结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bGqVBYWvXgwGC4I8pHL_-137">
+          <mxGeometry x="-0.1429" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bGqVBYWvXgwGC4I8pHL_-135" value="UIAutomator进程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1295" y="460" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
