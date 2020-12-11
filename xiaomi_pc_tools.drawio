@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T03:14:44.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="z2UacaEGd_oyvu2S7udo" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-11T03:37:21.985Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="S-ZSnbnG3Aj1gy4Dj3X8" version="14.0.1" type="github">
   <diagram id="1P_7CGf5NRen447fJ8HE" name="Page-1">
     <mxGraphModel dx="1865" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,11 +28,8 @@
             <mxPoint x="490.15384615384613" y="14.166666666666664" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NniAMcF-AqxOJK8e0dRN-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="NniAMcF-AqxOJK8e0dRN-33">
-          <mxGeometry x="9.692307692307692" y="7.083333333333332" width="13.846153846153843" height="14.166666666666664" as="geometry" />
-        </mxCell>
         <mxCell id="NniAMcF-AqxOJK8e0dRN-18" value="&lt;font style=&quot;font-size: 11px&quot;&gt;相册组工具集&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NniAMcF-AqxOJK8e0dRN-33">
-          <mxGeometry x="23.538461538461537" width="110.76923076923075" height="28.33333333333333" as="geometry" />
+          <mxGeometry x="24.54" width="77.85" height="28.33" as="geometry" />
         </mxCell>
         <mxCell id="NniAMcF-AqxOJK8e0dRN-21" value="File" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NniAMcF-AqxOJK8e0dRN-33">
           <mxGeometry y="28.33333333333333" width="55.38461538461537" height="28.33333333333333" as="geometry" />
@@ -69,6 +66,12 @@
         </mxCell>
         <mxCell id="NniAMcF-AqxOJK8e0dRN-68" value="关闭手机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NniAMcF-AqxOJK8e0dRN-33">
           <mxGeometry x="420" y="320" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NniAMcF-AqxOJK8e0dRN-70" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="NniAMcF-AqxOJK8e0dRN-33">
+          <mxGeometry x="10" y="7.08" width="13.54" height="13.54" as="geometry" />
+        </mxCell>
+        <mxCell id="NniAMcF-AqxOJK8e0dRN-75" value="压力测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NniAMcF-AqxOJK8e0dRN-33">
+          <mxGeometry x="150" y="60" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
