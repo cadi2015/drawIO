@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T12:23:39.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="tuj7qWI3RXA3hjaPaBFh" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T12:25:26.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="kwJaFaHWVI0PeU_UHqzZ" version="14.0.1" type="github">
   <diagram id="1P_7CGf5NRen447fJ8HE" name="Page-1">
     <mxGraphModel dx="1865" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="NniAMcF-AqxOJK8e0dRN-39" value="设备列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NniAMcF-AqxOJK8e0dRN-33" vertex="1">
           <mxGeometry x="430" y="36.67" width="62" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NniAMcF-AqxOJK8e0dRN-41" value="日志过滤" style="rounded=0;whiteSpace=wrap;html=1;" parent="NniAMcF-AqxOJK8e0dRN-33" vertex="1">
+        <mxCell id="NniAMcF-AqxOJK8e0dRN-41" value="日志" style="rounded=0;whiteSpace=wrap;html=1;" parent="NniAMcF-AqxOJK8e0dRN-33" vertex="1">
           <mxGeometry x="157.69" y="60" width="52.31" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NniAMcF-AqxOJK8e0dRN-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="NniAMcF-AqxOJK8e0dRN-33" vertex="1">
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="NniAMcF-AqxOJK8e0dRN-75" value="压力测试" style="rounded=0;whiteSpace=wrap;html=1;" parent="NniAMcF-AqxOJK8e0dRN-33" vertex="1">
           <mxGeometry x="97.69" y="60" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PtmkaYNPwoIaMwavgQvr-3" value="清除相机数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NniAMcF-AqxOJK8e0dRN-33">
+          <mxGeometry x="420" y="280" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
