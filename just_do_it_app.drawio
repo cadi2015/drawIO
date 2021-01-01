@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-01T08:32:47.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36" etag="Ri5vFX3HrNZDnETGlY9w" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-01T08:51:37.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36" etag="dMCdKUqnJZDYYLo5ETGt" version="14.1.2" type="github">
   <diagram id="vHTjH_v9-nAIJP0Ax-UL" name="Page-1">
     <mxGraphModel dx="898" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="AXuJr7GX5t6zdqcwrfW1-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" parent="1" vertex="1">
           <mxGeometry x="49" y="490" width="200" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="AXuJr7GX5t6zdqcwrfW1-11" value="拍一拍" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#B3B3B3;align=center;strokeColor=#E6E6E6;fontColor=#333333;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="AXuJr7GX5t6zdqcwrfW1-11" value="秀自己" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#B3B3B3;align=center;strokeColor=#E6E6E6;fontColor=#333333;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="57" y="830" width="93" height="16.88" as="geometry" />
         </mxCell>
         <mxCell id="AXuJr7GX5t6zdqcwrfW1-12" value="提醒我" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#E6E6E6;align=center;strokeColor=#E6E6E6;fontColor=#333333;" parent="1" vertex="1">
@@ -43,13 +43,13 @@
         <mxCell id="AXuJr7GX5t6zdqcwrfW1-15" value="拍一拍" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#E6E6E6;align=center;strokeColor=#E6E6E6;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="50" y="1290" width="91.5" height="16.88" as="geometry" />
         </mxCell>
-        <mxCell id="AXuJr7GX5t6zdqcwrfW1-16" value="拍一拍" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#B3B3B3;align=center;strokeColor=#E6E6E6;fontColor=#333333;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="AXuJr7GX5t6zdqcwrfW1-16" value="秀自己" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#B3B3B3;align=center;strokeColor=#E6E6E6;fontColor=#333333;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="47" y="371" width="93" height="16.88" as="geometry" />
         </mxCell>
         <mxCell id="AXuJr7GX5t6zdqcwrfW1-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" parent="1" vertex="1">
           <mxGeometry x="650" y="490" width="200" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="AXuJr7GX5t6zdqcwrfW1-20" value="对比页-展示" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="AXuJr7GX5t6zdqcwrfW1-20" value="对比页-全屏展示" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="667" y="460" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AXuJr7GX5t6zdqcwrfW1-24" value="曾经的你" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -64,7 +64,7 @@
         <mxCell id="741fsMRxl2IYC-XLmPN2-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="129" y="780" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="741fsMRxl2IYC-XLmPN2-3" value="默认前置摄像头" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="741fsMRxl2IYC-XLmPN2-3" value="默认开启前置摄像头" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="83" y="660" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="741fsMRxl2IYC-XLmPN2-4" value="提醒选择页" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -73,7 +73,7 @@
         <mxCell id="741fsMRxl2IYC-XLmPN2-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
           <mxGeometry x="880" y="490" width="200" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="741fsMRxl2IYC-XLmPN2-6" value="对比页-保存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="741fsMRxl2IYC-XLmPN2-6" value="对比页-操作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="897" y="460" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="741fsMRxl2IYC-XLmPN2-7" value="曾经的你" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -84,6 +84,39 @@
         </mxCell>
         <mxCell id="741fsMRxl2IYC-XLmPN2-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
           <mxGeometry x="1035" y="810" width="22" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="741fsMRxl2IYC-XLmPN2-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="490" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="741fsMRxl2IYC-XLmPN2-11" value="对比页-无图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="447" y="460" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="741fsMRxl2IYC-XLmPN2-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="690" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="741fsMRxl2IYC-XLmPN2-13" value="现在的你" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="529" width="180" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="741fsMRxl2IYC-XLmPN2-15" value="添加曾经的你" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="467" y="800" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="741fsMRxl2IYC-XLmPN2-16" value="" style="shape=cross;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="750" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="741fsMRxl2IYC-XLmPN2-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="950" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="741fsMRxl2IYC-XLmPN2-18" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.statusBar;align=center;fillColor=#000000;strokeColor=#ffffff;fontColor=#ffffff;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="319" y="985" width="183" height="15.83" as="geometry" />
+        </mxCell>
+        <mxCell id="741fsMRxl2IYC-XLmPN2-20" value="动一动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1010" width="181" height="19.17" as="geometry" />
+        </mxCell>
+        <mxCell id="741fsMRxl2IYC-XLmPN2-21" value="通知效果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360.5" y="927" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="741fsMRxl2IYC-XLmPN2-22" value="为了明天" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1040" width="180" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
