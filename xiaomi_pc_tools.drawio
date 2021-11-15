@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T06:08:45.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="myH0uMaVwpi8lOCZkTwh" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T06:21:36.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="TZdCsCrd-iViaJFkdd-7" version="15.7.3" type="github">
   <diagram id="1P_7CGf5NRen447fJ8HE" name="Page-1">
     <mxGraphModel dx="1865" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -280,9 +280,6 @@
         <mxCell id="QvlNdS1QcOiWLorqcNAx-18" value="2.(900,300)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QvlNdS1QcOiWLorqcNAx-1">
           <mxGeometry x="118.38" y="419.5" width="73" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QvlNdS1QcOiWLorqcNAx-19" value="拍照" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QvlNdS1QcOiWLorqcNAx-1">
-          <mxGeometry x="213.75" y="419.5" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="QvlNdS1QcOiWLorqcNAx-20" value="闪光灯" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QvlNdS1QcOiWLorqcNAx-1">
           <mxGeometry x="190" y="69" width="50" height="20" as="geometry" />
         </mxCell>
@@ -295,14 +292,17 @@
         <mxCell id="QvlNdS1QcOiWLorqcNAx-23" value="启动" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="QvlNdS1QcOiWLorqcNAx-1">
           <mxGeometry x="457.23" y="423.12" width="62" height="26.88" as="geometry" />
         </mxCell>
-        <mxCell id="QvlNdS1QcOiWLorqcNAx-24" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x" vertex="1" parent="QvlNdS1QcOiWLorqcNAx-1">
-          <mxGeometry x="253.75" y="413.12" width="10" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="QvlNdS1QcOiWLorqcNAx-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QvlNdS1QcOiWLorqcNAx-1">
           <mxGeometry x="420" y="31.56" width="120" height="388.44" as="geometry" />
         </mxCell>
         <mxCell id="QvlNdS1QcOiWLorqcNAx-32" value="用例列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QvlNdS1QcOiWLorqcNAx-1">
-          <mxGeometry x="420" y="33.129999999999995" width="120" height="30" as="geometry" />
+          <mxGeometry x="420" y="31.129999999999995" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QvlNdS1QcOiWLorqcNAx-33" value="1：操作相机，关闭相机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QvlNdS1QcOiWLorqcNAx-1">
+          <mxGeometry x="420" y="61.13" width="120" height="48.87" as="geometry" />
+        </mxCell>
+        <mxCell id="QvlNdS1QcOiWLorqcNAx-34" value="2：人像模式无限切换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QvlNdS1QcOiWLorqcNAx-1">
+          <mxGeometry x="420" y="110" width="120" height="48.87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
