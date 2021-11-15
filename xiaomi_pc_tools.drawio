@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T06:42:43.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="VlDPwlrNmT4eDmk8NHar" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T06:43:54.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="FEAfJyptOrDkrVBcLPYT" version="15.7.3" type="github">
   <diagram id="1P_7CGf5NRen447fJ8HE" name="Page-1">
     <mxGraphModel dx="1865" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -247,11 +247,8 @@
         <mxCell id="QvlNdS1QcOiWLorqcNAx-7" value="&lt;span style=&quot;font-size: 11px&quot;&gt;相机Ui自动化（第九期）&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QvlNdS1QcOiWLorqcNAx-1">
           <mxGeometry x="24.54" width="165.46" height="31.56" as="geometry" />
         </mxCell>
-        <mxCell id="QvlNdS1QcOiWLorqcNAx-8" value="File" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QvlNdS1QcOiWLorqcNAx-1">
+        <mxCell id="QvlNdS1QcOiWLorqcNAx-8" value="环境" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QvlNdS1QcOiWLorqcNAx-1">
           <mxGeometry y="31.562015503875962" width="55.38461538461537" height="31.562015503875962" as="geometry" />
-        </mxCell>
-        <mxCell id="QvlNdS1QcOiWLorqcNAx-9" value="About" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QvlNdS1QcOiWLorqcNAx-1">
-          <mxGeometry x="53.99999999999999" y="31.562015503875962" width="55.38461538461537" height="31.562015503875962" as="geometry" />
         </mxCell>
         <mxCell id="QvlNdS1QcOiWLorqcNAx-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="QvlNdS1QcOiWLorqcNAx-1">
           <mxGeometry x="10" y="7.886790697674418" width="13.54" height="15.082930232558137" as="geometry" />
