@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T13:21:21.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36" etag="wHqYCZfQOfPphT7qaEx_" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-03T13:43:58.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36" etag="r6RoKO5l0TMnqVA2UcOK" version="14.6.0" type="github">
   <diagram id="9hrWZ2OlY2vGvy5pUk7n" name="Page-1">
     <mxGraphModel dx="1138" dy="1659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,7 +99,7 @@
             <mxPoint x="460" y="-670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YMuANcOd0X8EwazFm_TY-14" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;MonkeySourceScript&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+        <mxCell id="YMuANcOd0X8EwazFm_TY-14" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;MonkeySourceScript&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="-570" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YMuANcOd0X8EwazFm_TY-16" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YMuANcOd0X8EwazFm_TY-14" target="YMuANcOd0X8EwazFm_TY-2">
@@ -110,6 +110,30 @@
               <mxPoint x="760" y="-745" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YMuANcOd0X8EwazFm_TY-17" value="MonkeyEvent（抽象类）" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="-700" width="360" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="YMuANcOd0X8EwazFm_TY-18" value="# eventType:int&#xa;+_ EVENT_TYPE_KEY: int&#xa;+_ EVENT_TYPE_TOUCH:int&#xa;……省略很多……&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YMuANcOd0X8EwazFm_TY-17">
+          <mxGeometry y="26" width="360" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="YMuANcOd0X8EwazFm_TY-19" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="YMuANcOd0X8EwazFm_TY-17">
+          <mxGeometry y="100" width="360" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="YMuANcOd0X8EwazFm_TY-20" value="+ getEventType(): int&#xa;+ isThrottlable(): boolean&#xa;+ injectEvent(IWindowManager,IActivityManager,int): int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YMuANcOd0X8EwazFm_TY-17">
+          <mxGeometry y="108" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YMuANcOd0X8EwazFm_TY-21" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;MonkeyActivityEvent&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="-450" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YMuANcOd0X8EwazFm_TY-23" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;MonkeyCommandEvent&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="-450" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YMuANcOd0X8EwazFm_TY-24" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;MonkeyFlipEvent&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240.5" y="-450" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YMuANcOd0X8EwazFm_TY-25" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;MonkeyGetAppFrameRateEvent&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="-450" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
