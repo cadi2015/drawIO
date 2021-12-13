@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T07:15:18.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="e8JiskljEmXIijZCT0-J" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T07:19:08.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="RFrSpEUx5DCFthOKtN25" version="15.7.3" type="github">
   <diagram id="9yc7ea3CVcRjIqYDv_Ku" name="Page-1">
     <mxGraphModel dx="1038" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,13 +76,30 @@
             <mxPoint x="268" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kWZPlLeA_pEQHfnUsOy1-41" value="失败" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kWZPlLeA_pEQHfnUsOy1-38">
+        <mxCell id="kWZPlLeA_pEQHfnUsOy1-41" value="失败" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="770" as="targetPoint" />
+            <mxPoint x="265.5" y="390" as="targetPoint" />
+            <mxPoint x="306" y="770" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="550" y="770" />
+              <mxPoint x="550" y="370" />
+              <mxPoint x="266" y="370" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kWZPlLeA_pEQHfnUsOy1-38" value="调试结果" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="228" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kWZPlLeA_pEQHfnUsOy1-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kWZPlLeA_pEQHfnUsOy1-42" target="kWZPlLeA_pEQHfnUsOy1-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWZPlLeA_pEQHfnUsOy1-42" value="UiAutomator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kWZPlLeA_pEQHfnUsOy1-44" value="报告" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1050" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
