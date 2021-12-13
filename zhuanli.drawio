@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T07:21:54.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="pCNv_zRTYjhwRa7DK10H" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T07:24:15.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="ZGHsVooFgAs50vuRDLsH" version="15.7.3" type="github">
   <diagram id="9yc7ea3CVcRjIqYDv_Ku" name="Page-1">
-    <mxGraphModel dx="1038" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2595" dy="2537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,8 +9,8 @@
             <mxPoint x="340" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kWZPlLeA_pEQHfnUsOy1-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="212.5" width="42.5" height="85" as="geometry" />
+        <mxCell id="kWZPlLeA_pEQHfnUsOy1-1" value="测试人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="212.5" width="42.5" height="85" as="geometry" />
         </mxCell>
         <mxCell id="kWZPlLeA_pEQHfnUsOy1-8" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="60" y="-20" width="79.88" height="200" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="-0.0338" relative="1" as="geometry">
             <mxPoint x="510" y="510" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="770" />
+              <mxPoint x="540" y="750" />
               <mxPoint x="540" y="340" />
               <mxPoint x="314" y="340" />
             </Array>
@@ -88,11 +88,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kWZPlLeA_pEQHfnUsOy1-38" value="调试结果" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="228" y="730" width="80" height="80" as="geometry" />
+          <mxGeometry x="228" y="710" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kWZPlLeA_pEQHfnUsOy1-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kWZPlLeA_pEQHfnUsOy1-42" target="kWZPlLeA_pEQHfnUsOy1-44">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="1060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="880" />
+              <mxPoint x="250" y="825" />
+              <mxPoint x="434" y="825" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kWZPlLeA_pEQHfnUsOy1-42" value="UiAutomator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -102,6 +107,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="247.5999755859375" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="434" y="955" />
               <mxPoint x="640" y="955" />
               <mxPoint x="640" y="609" />
               <mxPoint x="720" y="609" />
