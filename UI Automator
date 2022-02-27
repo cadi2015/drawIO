@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-27T12:41:31.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="XR9b3wL9VkseaD2tHkZ4" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-27T12:56:37.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="P1Tr3FJW865A2h6pHLEf" version="15.9.6" type="github">
   <diagram id="YV_bI4oju6sYx3wcG0dX" name="Page-1">
     <mxGraphModel dx="1038" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,14 +52,50 @@
         <mxCell id="s2izPm-O5ACK871fnt-u-11" value="OnConnectListener" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="352.5" y="560" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TwXOc-n8JJQ--RhgTjeU-1" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=12;" edge="1" parent="1">
+        <mxCell id="TwXOc-n8JJQ--RhgTjeU-1" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=20;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="-253.199951171875" as="sourcePoint" />
-            <mxPoint x="960" y="-253" as="targetPoint" />
+            <mxPoint x="169" y="-710.199951171875" as="sourcePoint" />
+            <mxPoint x="939" y="-710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TwXOc-n8JJQ--RhgTjeU-2" value="主bash进程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="81" y="-283" width="140" height="60" as="geometry" />
+          <mxGeometry x="60" y="-740" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TwXOc-n8JJQ--RhgTjeU-3" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="219" y="-643" as="sourcePoint" />
+            <mxPoint x="939" y="-642.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TwXOc-n8JJQ--RhgTjeU-4" value="第一个业务子进程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-666" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TwXOc-n8JJQ--RhgTjeU-6" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=9;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229" y="-587" as="sourcePoint" />
+            <mxPoint x="939" y="-586.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TwXOc-n8JJQ--RhgTjeU-7" value="1号手机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="159" y="-605" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TwXOc-n8JJQ--RhgTjeU-9" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=9;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="-442" as="sourcePoint" />
+            <mxPoint x="940" y="-441.79999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TwXOc-n8JJQ--RhgTjeU-10" value="2号手机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TwXOc-n8JJQ--RhgTjeU-11" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=9;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229" y="-302" as="sourcePoint" />
+            <mxPoint x="939" y="-301.79999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TwXOc-n8JJQ--RhgTjeU-12" value="3号手机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="159" y="-320" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
