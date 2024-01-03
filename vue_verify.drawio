@@ -1,9 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T09:03:22.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="21.6.8" etag="7JAwWaP3xTANpfl27l8w" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T09:17:17.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kSW9zaITNHQiAGk93PcM" version="21.6.8" type="github">
   <diagram name="第 1 页" id="EoqZy2WCoEwOet_-goOX">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hAzyoUAJYKVNhVpLVdEp-1" value="标签管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hAzyoUAJYKVNhVpLVdEp-26" value="标签名称" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry width="260" height="40" relative="1" as="geometry">
+            <mxPoint x="100" y="100" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hAzyoUAJYKVNhVpLVdEp-27" value="23-12-25" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry width="800" height="30" relative="1" as="geometry">
+            <mxPoint x="100" y="140" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hAzyoUAJYKVNhVpLVdEp-28" value="输入标签名，可自定义" style="fillColor=none;strokeColor=none;align=left;spacing=2;fontSize=12;fontColor=#999999;" vertex="1" parent="1">
+          <mxGeometry width="260" height="30" relative="1" as="geometry">
+            <mxPoint x="100" y="170" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hAzyoUAJYKVNhVpLVdEp-32" value="确定" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="160" y="210" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hAzyoUAJYKVNhVpLVdEp-33" value="取消" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#F8F9FA;fontColor=#000000;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="90" y="210" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hAzyoUAJYKVNhVpLVdEp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hAzyoUAJYKVNhVpLVdEp-1" target="hAzyoUAJYKVNhVpLVdEp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
