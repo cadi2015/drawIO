@@ -168,8 +168,8 @@
         <mxCell id="FcAqTXAFGtNp5iq5CDFF-68" value="wangpeng140" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
           <mxGeometry x="96" y="2470" width="800" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FcAqTXAFGtNp5iq5CDFF-69" value="创建Jira" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="815.02" y="2540" width="77.49" height="20" as="geometry" />
+        <mxCell id="FcAqTXAFGtNp5iq5CDFF-71" value="创建Jira" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="812.51" y="2540" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
