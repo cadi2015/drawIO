@@ -171,6 +171,15 @@
         <mxCell id="FcAqTXAFGtNp5iq5CDFF-71" value="创建Jira" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
           <mxGeometry x="812.51" y="2540" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="FcAqTXAFGtNp5iq5CDFF-72" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="930" y="2350" width="70" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FcAqTXAFGtNp5iq5CDFF-73" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="930" y="2260" width="70" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FcAqTXAFGtNp5iq5CDFF-75" value="功能自动化测试系统" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#CDCDCD;fontColor=#303030;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="123.06" y="-16.8" width="186.94" height="29.3" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
